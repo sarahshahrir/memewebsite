@@ -28,8 +28,14 @@ To set up the project locally, follow these steps:
 3. **Set Up a Virtual Environment:**
 
    python3 -m venv .venv
-  source .venv/bin/activate  # For Linux/Mac
-  .venv\Scripts\activate     # For Windows
+   source .venv/bin/activate  # For Linux/Mac
+   .venv\Scripts\activate     # For Windows
 
+4. **Install Required Dependencies:**
+
+   Install the necessary packages listed in 'requirements.txt':
+   ```bash
+   pip install -r requirements.txt
+   
 
 
