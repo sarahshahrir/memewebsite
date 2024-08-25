@@ -36,6 +36,16 @@ To set up the project locally, follow these steps:
    Install the necessary packages listed in 'requirements.txt':
    ```bash
    pip install -r requirements.txt
-   
 
+5. **Run the Application:**
 
+  Start the Flask app with the following command:
+  ```bash
+  python app.py
+  ```
+  Open your browser and go to http://localhost:5000 to view the meme website.
+
+  ## Acknowledgments
+
+     - Meme API: Used to fetch memes from various subreddits.
+     - 
