@@ -39,13 +39,13 @@ To set up the project locally, follow these steps:
 
 5. **Run the Application:**
 
-  Start the Flask app with the following command:
-  ```bash
-  python app.py
-  ```
-  Open your browser and go to http://localhost:5000 to view the meme website.
+   Start the Flask app with the following command:
+   ```bash
+   python app.py
+   ```
+   Open your browser and go to http://localhost:5000 to view the meme website.
 
-  ## Acknowledgments
+ ## Acknowledgments
 
-     - Meme API: Used to fetch memes from various subreddits.
-     - 
+  - [Meme API](https://github.com/D3vd/Meme_Api)
+  - [NetworkChuck](https://youtu.be/5aYpkLfkgRE?si=g12nlfRehORtH_Q4)
